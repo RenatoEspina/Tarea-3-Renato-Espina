@@ -1,0 +1,17 @@
+ID,Nombre,Descripcion,Items,Arriba,Abajo,Izquierda,Derecha,EsFinal
+1,Entrada principal,"Una puerta rechinante abre paso a esta mansion olvidada por los dioses y los conserjes. El aire huele a humedad y a misterios sin resolver.",,-1,5,-1,-1,No
+2,Libreria,"Montones de libros polvorientos y estanterias torcidas. Algunos libros parecen gritar '¡lee!', otros solo quieren aplastarte si se caen.","Libro antiguo,6,2",-1,6,-1,3,No
+3,Caverna oscura,"Un tunel natural donde la luz es una leyenda y el eco se burla de ti. Ideal para perderse... o para ser comido.","Linterna,15,5",-1,7,2,4,No
+4,Estudio,"Una habitacion con aire de sabiduria olvidada y olor a tinta vieja. No hay cafe, asi que no es un verdadero estudio.",,-1,8,3,-1,No
+5,Cocina,"Restos de una batalla culinaria. Cuchillos por aqui, migajas por alla. Alguien cocino… o fue cocinado.","Cuchillo,3,1;Pan,2,1",1,9,-1,6,No
+6,Comedor,"Una mesa elegante cubierta de polvo. Parece que nadie ha cenado aqui desde la ultima plaga. Al menos dejaron una copa.","Copa dorada,8,3",2,10,5,7,No
+7,Sotano,"Oscuro, humedo y con olor a decisiones equivocadas. Perfecto para esconder cosas… o perderlas para siempre.",,3,11,6,-1,No
+8,Taller,"Herramientas oxidadas y un martillo que clama ser usado para algo epico... o para romper cosas.","Martillo,5,3;Clavos,1,1",4,12,-1,-1,No
+9,Jardin,"Mal cuidado y con plantas que parecen tener hambre. Un lugar perfecto para esconder cosas pequeñas o a un cadaver elegante.","Moneda,2,1",5,13,-1,-1,No
+10,Pasillo,"Estrecho, largo y lleno de telarañas. Cada paso resuena como si alguien (o algo) escuchara.","Llave,5,1",6,14,-1,11,No
+11,Sala del tesoro,"Brilla tanto que casi puedes oler el valor monetario. Pero si brilla demasiado... seguro hay una trampa.","Corona,50,10;Collar,20,4",7,-1,10,-1,No
+12,Almacen,"Cajas apiladas hasta el techo, muchas con etiquetas misteriosas. Aqui se guardan secretos, objetos... y quizas alguna criatura.",,8,16,-1,-1,No
+13,Dormitorio,"Almohadas rotas, sabanas polvorientas y un rubi que dice “tocalo y mueres”. Dormir aqui es un deporte extremo.","Rubi,20,5",9,-1,-1,14,No
+14,Corredor,"Paredes agrietadas, pasos que se escuchan donde nadie deberia caminar. Un pasillo como para correr y no mirar atras.",,10,-1,13,15,No
+15,Camara secreta,"Una sala oculta con simbolos raros y un mapa brillante. Nada que ver con una oficina de gobierno, esto si que es secreto.","Mapa,10,1",-1,-1,14,16,No
+16,Salida,¡Luz al final del tunel! Pero cuidado... hay salidas que son mas trampas que finales felices.,,-1,-1,-1,-1,Si
