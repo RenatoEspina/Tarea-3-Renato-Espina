@@ -45,7 +45,7 @@ Este juego ha sido desarrollado en lenguaje C y puede ejecutarse fácilmente uti
 
 ### Problemas conocidos:
 
-- si se usa el ejecutable desde visual, si achicas el tamaño de tu terminal vas a bugear los printeos en pantalla hasta que se actualize
+- si se usa el ejecutable desde visual, si achicas el tamaño de tu terminal vas a bugear los printeos en pantalla hasta que se actualize (comportamiento habitual de visual pero tener en cuenta por el tamaño del menu)
 
 **Paso 0: Menu Principal**
 
