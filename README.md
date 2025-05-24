@@ -16,12 +16,14 @@ Este juego ha sido desarrollado en lenguaje C y puede ejecutarse fácilmente uti
 
 ### Pasos para compilar y ejecutar:
 
-1. **Descarga y descomprime el** archivo `.zip` en una carpeta de tu elección.
+1. **Copia el link dandole al boton verde "<>code" en la pagina del proyecto**
 2. **Abre el proyecto en Visual Studio Code**
     - Inicia Visual Studio Code.
-    - Selecciona `Archivo > Abrir carpeta...` y elige la carpeta donde descomprimiste el proyecto.
+    - Dale a "Clonar Repositorio.
+    - Pega el link del proyecto.
+    - Selecciona `Archivo > Abrir carpeta...` y elige la carpeta donde guardar el proyecto.
 3. **Compila el código**
-    - Abre el archivo principal (por ejemplo, `graphquest.c`).
+    - Abre el archivo principal (`graphquest.c`).
     - Abre la terminal integrada (`Terminal > Nueva terminal`).
     - En la terminal, compila el programa con el siguiente comando (ajusta el nombre si el archivo principal tiene otro nombre):
         
